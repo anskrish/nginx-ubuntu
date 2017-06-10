@@ -1,5 +1,5 @@
 ---
 - name: install nginx
-  hosts: 192.168.1.128
+  hosts: 192.168.1.110
   roles:
     - laggyluke.nginx 
